@@ -43,3 +43,10 @@ The dashboard presents key KPIs and visualisations for quick understanding of th
 - Pivot Tables
 - Dashboard
 - Cleaning Log
+
+## Key Insights
+- 109 unique products were analysed.
+- Average current price was 1,208.26.
+- Average discount was 36%.
+- Budget products were the largest price category.
+- High-discount products were the largest discount category.
